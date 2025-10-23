@@ -38,7 +38,7 @@ exercicios-teste-software/
         └── test_busca_parametrizada.py        # Testes Web parametrizados
 ```
 
-## 🚀 Instalação
+## Instalação
 
 ### 1. Clone o repositório
 ```bash
