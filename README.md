@@ -1,1 +1,0 @@
-# exercicios-teste-software
