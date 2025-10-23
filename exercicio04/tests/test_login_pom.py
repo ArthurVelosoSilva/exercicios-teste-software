@@ -4,7 +4,11 @@ Testes de login usando POM
 """
 import pytest
 import sys
-sys.path.insert(0, '../exercicio04/pages')
+import os
+
+pasta_atual = os.path.dirname(__file__)
+pasta_exercicio04 = os.path.dirname(pasta_atual)
+sys.path.insert(0, pasta_exercicio04)
 
 from pages.login_page import LoginPage
 from pages.dashboard_page import DashboardPage
