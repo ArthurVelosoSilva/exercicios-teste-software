@@ -4,7 +4,6 @@
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Instalação](#instalação)
 - [Execução dos Testes](#execução-dos-testes)
-- [Descrição dos Exercícios](#descrição-dos-exercícios)
 - [Relatórios](#relatórios)
 
 ## Estrutura do Projeto
@@ -65,7 +64,7 @@ pip install -r requirements.txt
 ### 4. Verifique a instalação do ChromeDriver
 O webdriver-manager instalará automaticamente o ChromeDriver necessário na primeira execução.
 
-## ▶️ Execução dos Testes
+## Execução dos Testes
 
 ### Executar todos os testes
 ```bash
