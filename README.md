@@ -1,13 +1,13 @@
 # Exercícios de Testes Web e REST - Solução Completa
 
-## 📋 Índice
+## Índice
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Instalação](#instalação)
 - [Execução dos Testes](#execução-dos-testes)
 - [Descrição dos Exercícios](#descrição-dos-exercícios)
 - [Relatórios](#relatórios)
 
-## 🗂️ Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 exercicios-teste-software/
